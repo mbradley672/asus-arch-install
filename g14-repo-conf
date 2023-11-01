@@ -1,0 +1,3 @@
+# Copy these lines into /etc/pacman.conf
+[g14]
+Server = https://arch.asus-linux.org
